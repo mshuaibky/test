@@ -1,0 +1,21 @@
+{
+    "contacts":[
+        {
+            "id":1,
+            "name":"shuhaib",
+            "Phone":22774499988
+        },
+        {
+            "id":2,
+            "name":"manu",
+            "Phone":22774449988
+        },
+        {
+            "id":3,
+            "name":"zaara",
+            "Phone":88990099887
+        }
+        
+        
+    ]
+}
